@@ -20,7 +20,7 @@
 
 **21,909 IMDb titles · 9 analytical notebooks · 5 connected stages of investigation**
 
-[Read the full report](Report/DM1_report_Giuseppe_Muschetta.pdf) · [Explore the analysis](#explore-the-notebooks) · [Discover the association rules](#from-frequent-patterns-to-an-interpretable-classifier)
+[Read the full report](Report/Report.pdf) · [Explore the analysis](#explore-the-notebooks) · [Discover the association rules](#from-frequent-patterns-to-an-interpretable-classifier)
 
 </div>
 
